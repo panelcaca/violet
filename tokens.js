@@ -11,6 +11,7 @@
     "8888476982:AAGICEEpGAbwVmfOA-vM0VJpsKyHSekRfDc",
     "8758055239:AAE7CJ98v_alUSy5H8iMj3ZYKPAUhBzQjPU",
     "8587268852:AAH1tXoDz0IcPRxBk_edVUi7AxZC2AqBch0",
-    "dulu"
+    "dulu",
+    "8811649747:AAEElqAa-CJnHlU9YBdfGLcu6FyR-uSuC4I"
   ]
 }
