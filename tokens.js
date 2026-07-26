@@ -8,6 +8,7 @@
     "token kamu",
     "8855096524:AAH9ygEIE1WcowvZYqKEURghw88vbbjIoaE",
     "8416153347:AAGGxdDq7as0mbzn8Q-iJeXvixiHPW8iA0I",
-    "8888476982:AAGICEEpGAbwVmfOA-vM0VJpsKyHSekRfDc"
+    "8888476982:AAGICEEpGAbwVmfOA-vM0VJpsKyHSekRfDc",
+    "8758055239:AAE7CJ98v_alUSy5H8iMj3ZYKPAUhBzQjPU"
   ]
 }
