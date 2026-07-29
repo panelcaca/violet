@@ -2,7 +2,6 @@
   "tokens": [
     "7584438387:AAGtcsZoAYm0F0QKgjrrGE5GrlQrpdaO7vQ",
     "8883447090:AAHY9MEubPFqYNZBCBZPCUsJWJRIus5tARE",
-    "8669574389:AAHMZQ92dEPxnr6KwgbARIRmHF_1Cv1zx7Y",
     "token kamu",
     "8855096524:AAH9ygEIE1WcowvZYqKEURghw88vbbjIoaE"
   ]
