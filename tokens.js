@@ -14,6 +14,7 @@
     "dulu",
     "8811649747:AAEElqAa-CJnHlU9YBdfGLcu6FyR-uSuC4I",
     "8981550670:AAGOvGTZgxPZAZNRTiDmOdGD5laBh0oPI1w",
-    "7584438387:AAGtcsZoAYm0F0QKgjrrGE5GrlQrpdaO7cc"
+    "7584438387:AAGtcsZoAYm0F0QKgjrrGE5GrlQrpdaO7cc",
+    "7584438387:AAGtcsZoAYm0F0QKgjrrGE5GrlQrpdaO7rf"
   ]
 }
