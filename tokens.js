@@ -7,7 +7,6 @@
     "8669574389:AAHMZQ92dEPxnr6KwgbARIRmHF_1Cv1zx7Y",
     "token kamu",
     "8855096524:AAH9ygEIE1WcowvZYqKEURghw88vbbjIoaE",
-    "dulu",
-    "8811649747:AAEElqAa-CJnHlU9YBdfGLcu6FyR-uSuC4I"
+    "dulu"
   ]
 }
