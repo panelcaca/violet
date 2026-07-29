@@ -6,7 +6,6 @@
     "8902129041:AAGLxwnpJ6F7I8-KfdT4pVT_jrzkX1p6jVM",
     "8669574389:AAHMZQ92dEPxnr6KwgbARIRmHF_1Cv1zx7Y",
     "token kamu",
-    "8855096524:AAH9ygEIE1WcowvZYqKEURghw88vbbjIoaE",
-    "dulu"
+    "8855096524:AAH9ygEIE1WcowvZYqKEURghw88vbbjIoaE"
   ]
 }
